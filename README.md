@@ -20,3 +20,18 @@ I made the program maintainable and readable by separating functionality into cl
 
 ## AI Usage Acknowledgment
 Generative AI was used as a support tool to help brainstorm reflection wording and improve clarity in documenting this project. All project code, understanding, and final submission content were reviewed and personalized by me.
+
+
+# CS 250 Portfolio Reflection
+
+## How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+
+I interpret user needs by identifying what the user wants to accomplish and translating those needs into specific features and requirements. Creating user stories helps keep the development process focused on the user's perspective by clearly describing who the user is, what they need, and why it is important. User stories also make it easier to prioritize work and ensure the final product delivers value.
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approach software development by breaking large projects into smaller, manageable tasks that can be completed incrementally. Throughout this course, I learned the value of Agile practices such as sprint planning, daily communication, sprint reviews, and retrospectives. In future development work, I plan to continue using iterative development, regular testing, and continuous feedback to improve software quality and respond to changing requirements more effectively.
+
+## What does it mean to be a good team member in software development?
+
+Being a good team member means communicating clearly, collaborating with others, accepting feedback professionally, and completing assigned work on time. It also means supporting teammates, being willing to adapt when project requirements change, and contributing to the overall success of the team. Agile development emphasizes teamwork, accountability, and continuous improvement, all of which are important qualities for successful software development projects.
